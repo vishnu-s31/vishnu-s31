@@ -2,9 +2,9 @@
 <h3 align="center">GenAI Enthusiast | AI & ML Engineer | Data Scientist | Data Analyst</h3>
 
 ---
-## 🔍 What I Do
-
-🚀 I am a **Data Scientist & AI Engineer** passionate about turning data into intelligent, real-world solutions by combining **Analytics, Machine Learning, and Generative AI**.
+🔍 What I Do  
+🚀 I am a Data Scientist & AI Engineer passionate about turning data into intelligent, real-world solutions by combining Analytics, Machine Learning, and Generative AI.  
+📌 I specialize in building end-to-end AI systems—from data understanding and modeling to scalable, production-ready solutions that drive measurable business impact.
 
 ---
 
