@@ -1,4 +1,4 @@
-                                                  ###  Hi, I'm Vishnu 👋
+                                                     Hi, I'm Vishnu 👋
 
 ## 🔍 What I Do
 
@@ -66,13 +66,56 @@
 
 ## 🛠️ Tech Stack
 
+### 🧑‍💻 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+### 📊 Data Analysis & Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 🤖 Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time%20Series-4682B4?style=for-the-badge)
+
+---
+
+### 🧠 Deep Learning & NLP
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-6A5ACD?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-0A66C2?style=for-the-badge)
+
+---
+
+### ✨ Generative AI & LLMs
+![LLM](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-800080?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-228B22?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF1493?style=for-the-badge)
+
+---
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
