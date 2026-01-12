@@ -1,4 +1,7 @@
-                                                     Hi, I'm Vishnu 👋
+                                                                 # Hi, I'm Vishnu 👋  
+                                                     
+                                 ### GenAI Enthusiast |  AI & ML Engineer  |  Data Scientist  |  Data Analyst
+
 
 ## 🔍 What I Do
 
