@@ -45,21 +45,33 @@ I enjoy working across the complete AI lifecycle — from data analysis and mode
 
 ## 🛠️ Tech Stack (Focused)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)](#)
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)](#)
-[![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)](#)
-[![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)](#)
-[![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)](#)
-[![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge)](#)
-[![BERT](https://img.shields.io/badge/BERT-0A66C2?style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)](https://scikit-learn.org/stable/supervised_learning.html)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)](https://www.deeplearning.ai/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
+
+[![Generative AI](https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-800080?style=for-the-badge)](https://platform.openai.com/docs)
+[![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
+[![LangChain](https://img.shields.io/badge/LangChain%20%26%20Agentic%20AI-1C3C3C?style=for-the-badge)](https://www.langchain.com/)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF1493?style=for-the-badge)](https://www.promptingguide.ai/)
+
+
+[![Transformers](https://img.shields.io/badge/Transformers%20%26%20BERT-FFD700?style=for-the-badge)](https://huggingface.co/docs/transformers)
+[![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-4C72B0?style=for-the-badge)](https://pandas.pydata.org/docs/)
+[![Statistics](https://img.shields.io/badge/Statistical%20Analysis-4682B4?style=for-the-badge)](https://www.khanacademy.org/math/statistics-probability)
+[![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-6A5ACD?style=for-the-badge)](https://scikit-learn.org/stable/modules/preprocessing.html)
+[![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation%20%26%20Tuning-556B2F?style=for-the-badge)](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
+
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Vector Databases](https://img.shields.io/badge/Vector%20Databases-228B22?style=for-the-badge)](https://www.pinecone.io/)
+[![AWS](https://img.shields.io/badge/AWS%20Cloud%20%26%20Deployment-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Model Deployment](https://img.shields.io/badge/Model%20Deployment%20%26%20Optimization-2F4F4F?style=for-the-badge)](https://aws.amazon.com/sagemaker/)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-20B2AA?style=for-the-badge)](https://powerbi.microsoft.com/)
 
 ---
 
