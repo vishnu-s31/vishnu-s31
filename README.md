@@ -53,6 +53,14 @@ I enjoy working across the complete AI lifecycle — from data analysis and mode
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)](#)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)](#)
+[![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)](#)
+[![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)](#)
+[![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)](#)
+[![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge)](#)
+[![BERT](https://img.shields.io/badge/BERT-0A66C2?style=for-the-badge)](#)
+
 ---
 
 ## 📌 Areas of Interest
